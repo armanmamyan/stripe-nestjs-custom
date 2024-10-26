@@ -35,6 +35,7 @@ This project is a NestJS-based REST API that provides user authentication, Strip
 
 Create a `.env` file in the project root and add the following environment variables:
 
+```bash
 STAGE=development  
 DB_USERNAME=your_db_username  
 DB_PASSWORD=your_db_password  
@@ -45,7 +46,7 @@ STRIPE_SECRET=your_stripe_secret
 STRIPE_WEBHOOK_SECRET=your_stripe_webhook_secret  
 PRIVATE_KEY=your_jwt_private_key  
 PORT=3000  
-
+```
 > **Note:** Make sure to set the appropriate `STRIPE_SECRET` and `STRIPE_WEBHOOK_SECRET` values from your Stripe Dashboard.
 
 
