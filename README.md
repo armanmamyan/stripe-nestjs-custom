@@ -25,7 +25,7 @@ This project is a NestJS-based REST API that provides user authentication, Strip
 1. Clone the repository:
   ```bash
     git clone https://github.com/armanmamyan/stripe-nestjs-custom
-   cd your-repo
+   cd stripe-nestjs-custom
   ```
 2. Install Dependencies
   ```bash
