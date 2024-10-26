@@ -23,14 +23,14 @@ This project is a NestJS-based REST API that provides user authentication, Strip
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
+  ```bash
+    git clone https://github.com/armanmamyan/stripe-nestjs-custom
    cd your-repo
   ```
 2. Install Dependencies
-```bash
-  pnpm i
-```
+  ```bash
+    pnpm i
+  ```
 ## Environment Variables
 
 Create a `.env` file in the project root and add the following environment variables:
